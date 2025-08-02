@@ -1,2 +1,2 @@
-# Sunday
+# C++ Programming
 First Repository
